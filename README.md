@@ -5,4 +5,4 @@
 
  2. Añadir el documento en la carpeta que corresponda.
 
- 3. Y por último añadir como pone en la dicumentación el documento al mkdocs.yml
+ 3. Y por último añadir como pone en la documentación el documento al mkdocs.yml
