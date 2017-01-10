@@ -1,0 +1,10 @@
+site_name: Iniciativa Gestion Configuracion
+pages:
+ - Home: 'index.md'
+ - 'Buenas Practicas':
+    - 'Uso herramientas colaborativas - Git': 'buenas_practicas/git.md'
+    - 'Buenas Practicas - Ansible': 'buenas_practicas/ansible.md'
+ - 'CheatSheets':
+    - 'Markdown Cheatsheet': 'cheatsheet/markdown.md'
+    - 'Git Cheatsheet': 'cheatsheet/git.md'
+theme: readthedocs
